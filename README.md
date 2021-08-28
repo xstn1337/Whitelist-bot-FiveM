@@ -1,1 +1,1 @@
-# License-System-FiveM-Discord-Bot
+# Whitelist for scripts lua
