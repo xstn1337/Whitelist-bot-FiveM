@@ -1,0 +1,10 @@
+{
+  "sql": {
+    "host": "localhost",
+    "user": "",
+    "password": "",
+    "database": "whitelistbot"
+  },
+    "token": "",
+    "prefix": "$"
+}
