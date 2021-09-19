@@ -38,7 +38,7 @@ module.exports.run = async (bot, message, con, log, role, makeid, args) => {
         const Embed = new discord.MessageEmbed()
         .setColor('#0099ff')
         .setDescription('**xstn.xyz**')
-        .addField('Error','```\nPlease Send Id Disord and IP server\n```', true)
+        .addField('Error','```\nPlease Send Id Disord and IP server and lifetime/month\n```', true)
         .setTimestamp()
         message.channel.send(Embed)
         log(`[LOG Command] ${message.author.username}, Use Command Add Whitelist Not Id`, "red")
