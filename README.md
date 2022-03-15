@@ -6,7 +6,3 @@
 4. Put server.lua to your script
 5. Done!
 
-IMPORTANT:
-
-HWID doesn't work!
-If somebody crack your script it's not my fault
